@@ -1,0 +1,17 @@
+{
+    "name": "tadabase/api",
+    "description": "A simple hello world composer package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hitesh",
+            "email": "hitesh@appgani.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"TadabaseApi\\": "src/"}
+    },
+    "require": {}
+}
